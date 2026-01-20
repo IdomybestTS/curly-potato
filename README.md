@@ -22,6 +22,9 @@
 ║  DIFFICULTY  NORMAL  ║
 ║  SCORE        00042  ║
 ╚══════════════════════╝
+
+𝔞𝔡𝔡𝔦𝔠𝔱𝔢𝔡 𝔱𝔬 𝔤𝔞𝔪𝔢𝔰 𝔟𝔱𝔴
+  
 </pre>
 
 <p align="right">✧</p>
