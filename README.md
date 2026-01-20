@@ -7,7 +7,7 @@
   <br><br>
   <br><br>
 
-  <img src="https://i.pinimg.com/originals/2b/ff/e5/2bffe57647082a79eac3790d29ae7b4d.gif" width="400">
+  <img src="https://i.pinimg.com/originals/2b/ff/e5/2bffe57647082a79eac3790d29ae7b4d.gif" width="600">
   <br>
   <p>𝔞𝔡𝔡𝔦𝔠𝔱𝔢𝔡 𝔱𝔬 𝔤𝔞𝔪𝔢𝔰 𝔟𝔱𝔴</p>
 
