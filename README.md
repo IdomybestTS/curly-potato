@@ -4,22 +4,17 @@
   <img src="https://i.pinimg.com/originals/2b/ff/e5/2bffe57647082a79eac3790d29ae7b4d.gif" width="420">
 </p>
 
-<table align="center">
-<tr>
-<td></td>
-<td align="right">
+<p align="left">✦</p>
+<p align="right">✧ ✦</p>
+<p align="center">✧</p>
 
-<pre style="font-size: 36px; line-height: 1;">
-⩇⩇:⩇⩇
-</pre>
+<p align="right">
+  <span style="font-size: 36px;">⩇⩇:⩇⩇</span>
+</p>
 
-</td>
-</tr>
+<p align="left">✦ ✧</p>
 
-<tr>
-<td>
-
-<pre>
+<pre align="center">
 ╔══════════════════════╗
 ║      ARCADE MODE     ║
 ╠══════════════════════╣
@@ -29,7 +24,7 @@
 ╚══════════════════════╝
 </pre>
 
-</td>
-<td></td>
-</tr>
-</table>
+<p align="right">✧</p>
+<p align="center">✦ ✧ ✦</p>
+<p align="left">✦</p>
+
